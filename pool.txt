@@ -5,3 +5,6 @@ Why we should play this pull request game?
                 -- EltonChung
 Hehe
                 -- Keita
+
+Work to learn, not to earn.
+                -- for test
