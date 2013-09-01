@@ -11,3 +11,12 @@ Work to learn, not to earn.
                 -- for test
 
 A test.
+
+My try for pull request and ascII picture. 
+ _ _ _ _ _ _ _ _ _ _
+| | | | | | | | | | |
+| | | | | | | | | | |
+|_|_|_|_| | |_|_|_|_|
+        | | |
+	| | |
+	|_\_|
