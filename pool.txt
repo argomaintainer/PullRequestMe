@@ -13,10 +13,5 @@ Work to learn, not to earn.
 A test : i dont like tests more often. :-)
 
 My try for pull request and ascII picture. 
- _ _ _ _ _ _ _ _ _ _
-| | | | | | | | | | |
-| | | | | | | | | | |
-|_|_|_|_| | |_|_|_|_|
-        | | |
-	| | |
-	|_\_|
+
+<ugly>
