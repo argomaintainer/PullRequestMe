@@ -10,6 +10,9 @@ Hehe
 Work to learn, not to earn.
                 -- for test
 
+What do you call a Fish with no Eyes;
+                -- Fsh
+
 A test : i dont like tests more often. :-)
 
 My try for pull request and ascII picture. 
